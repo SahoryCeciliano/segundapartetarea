@@ -268,4 +268,5 @@ float: right;
 }
 .color{
     background-image: url("../imagenes/diseno-fondo-azul-suave-textura-grunge-abstracta_1055-19624.avif");
+     overflow: hidden;
 }
